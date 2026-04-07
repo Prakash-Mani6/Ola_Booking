@@ -1,0 +1,32 @@
+*Customer Behavior & Ride Patterns
+1.Identify the top 3 peak booking hours based on ride volume.
+
+2.Find the most common vehicle type booked by frequent customers.
+
+3.Determine the percentage of repeat customers in the dataset.
+
+4.Rank payment methods by their total booking value contribution.
+
+5.Calculate the average customer rating for each vehicle type in different cities.
+
+*Ride Efficiency & Service Performance
+6.Find the top 3 reasons for ride cancellations by customers and drivers.
+
+7.Compute the ride completion rate for each city.
+
+8.Identify the most in-demand vehicle type in each city during peak hours.
+
+9.Determine the average ride distance for each vehicle type.
+
+10.Compare the average V_TAT and C_TAT across different cities.
+
+*Driver Performance & Service Quality
+11.Identify drivers with the highest average rating and their ride completion rate.
+
+12.Find the pickup locations with the highest ride cancellation rate.
+
+13.Analyze the impact of discounts on the total number of bookings.
+
+14Determine the city with the highest total revenue from bookings.
+
+15.Identify the top 5 locations with the most canceled rides and suggest improvements.
